@@ -1,0 +1,25 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav2{
+    position: relative;
+    bottom: 22px;
+    left: 16px;
+    width: 96vw;
+    z-index: 1;
+}
+
+.social-links ul{
+    margin-left: 570px;
+}
+
+.carousel-caption{
+    position: absolute;
+    bottom: 212px;
+    font-size: 55px;
+    font-weight: bolder;
+}
